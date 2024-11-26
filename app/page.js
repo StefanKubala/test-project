@@ -22,7 +22,7 @@ export default function Home() {
           </li>
           <li>
             Save and see your changes instantly. Some change. Make some new
-            changes on new branch
+            changes on new branch. aSecond cahnge on new branch.
           </li>
         </ol>
 
