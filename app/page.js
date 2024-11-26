@@ -20,7 +20,10 @@ export default function Home() {
             </code>
             .
           </li>
-          <li>Save and see your changes instantly. Some change</li>
+          <li>
+            Save and see your changes instantly. Some change. Make some new
+            changes on new branch
+          </li>
         </ol>
 
         <div className="flex gap-4 items-center flex-col sm:flex-row">
